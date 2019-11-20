@@ -1,4 +1,4 @@
-# chapter-16
+# Chapter-16
 # Instructions
 
 In these review exercises, you will be reviewing the basic Python techniques that are presented in the exercises of Think Python Chapter 16. 
